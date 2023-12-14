@@ -1,4 +1,4 @@
-﻿namespace Project.Data
+﻿namespace Project.ViewModel
 {
     public class Class1
     {
